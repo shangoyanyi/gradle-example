@@ -1,4 +1,4 @@
-# gradle sample
+# gradle example
 
-A sample gradle project.
+A gradle example project.
 
